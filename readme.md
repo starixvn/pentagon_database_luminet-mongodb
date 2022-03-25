@@ -8,6 +8,6 @@ Doing something for #1
 ```
 
 ### Test link
-[readme.md]()
-[readme.md](readme.md)
-[](readme.md)
+1 [readme.md]()  
+2 [readme.md](readme.md)  
+3 [](readme.md)  
